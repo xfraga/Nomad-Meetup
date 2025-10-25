@@ -1,0 +1,51 @@
+# Environment variables
+.env
+
+# Dependencies
+node_modules/
+
+# Expo
+.expo/
+.expo-shared/
+
+# Build outputs
+dist/
+web-build/
+
+# Debug logs
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+*.log
+
+# Security files
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+
+# macOS
+.DS_Store
+
+# iOS
+ios/Pods/
+
+# Android
+android/.gradle
+android/app/build/
+android/.idea
+android/app/debug
+android/app/release
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+.temp/
